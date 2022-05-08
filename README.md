@@ -56,3 +56,7 @@ using the built ML models. SA and QED scores were calculated using RDKit package
 The following were the non-toxic, soluble and biologically active compounds :
 ![pic1](https://user-images.githubusercontent.com/72453054/167280323-50f554fb-d033-4e1c-899b-3e7caf908097.png)
 ![pic4](https://user-images.githubusercontent.com/72453054/167280369-01d3984f-c5b8-4284-9d5a-d82b8de3deee.png)
+![pic8](https://user-images.githubusercontent.com/72453054/167280390-08e4b97a-1679-49d1-8dac-61cdbadc6d05.png)
+
+These three compounds I believe could be subsequently tried to synthesize them in a
+lab and the bioactivities experimentally determined.
