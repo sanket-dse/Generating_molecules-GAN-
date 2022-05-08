@@ -54,3 +54,4 @@ those 20. Here novel means molecules not found in the input dataset.
 The next thing was predicting solubility, toxicity and bioactivity of these compounds
 using the built ML models. SA and QED scores were calculated using RDKit package
 The following were the non-toxic, soluble and biologically active compounds :
+![pic1](https://user-images.githubusercontent.com/72453054/167280323-50f554fb-d033-4e1c-899b-3e7caf908097.png)
